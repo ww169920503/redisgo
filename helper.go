@@ -1,7 +1,7 @@
 package redisgo
 
 import (
-	"github.com/gomodule/redigo/redis"
+	"github.com/nightcloud2021/redigo/redis"
 )
 
 // Int is a helper that converts a command reply to an integer

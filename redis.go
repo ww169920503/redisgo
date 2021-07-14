@@ -14,7 +14,7 @@ import (
 
 	// "github.com/aiscrm/cache"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/nightcloud2021/redigo/redis"
 )
 
 // Cacher 先构建一个Cacher实例，然后将配置参数传入该实例的StartAndGC方法来初始化实例和程序进程退出后的清理工作。

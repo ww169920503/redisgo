@@ -1,3 +1,3 @@
-module github.com/ww169920503/redisgo
+module redisgo
 
-require github.com/gomodule/redigo v2.0.0+incompatible
+go 1.16
